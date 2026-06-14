@@ -72,7 +72,7 @@ which has taught me to adapt fast and pick the right tool for the job.
 
 | Project | Type | Description | Stack |
 |---------|------|-------------|-------|
-| 🤖 [**AI Assistant**](#) | AI | Web interface integrating LLM APIs with dynamic responses | HTML · CSS · JS · Python · Flask |
+| 🤖 [**AI Assistant**](https://github.com/Tresor-Bilal-Projects/assistant-ia-dirigeants) | AI | Web interface integrating LLM APIs with dynamic responses | HTML · CSS · JS · Python · Flask |
 | 🧪 [**LLM Hackathon**](https://github.com/Tresor-Bilal/hackathon) | AI | LLM evaluation pipeline with scoring & Kibana dashboards | Python · Elasticsearch · Kibana |
 | 🚗 [**Drive Now**](https://github.com/Tresor-Bilal-Projects/Java-Project) | Desktop | Vehicle rental management app with MVC architecture | Java · JavaFX · MySQL · JDBC |
 | 🎉 [**EventMatch**](https://github.com/Tresor-Bilal/Event_Match) | Web | Full-stack event platform with auth & CRUD | PHP · MySQL · JavaScript · Bootstrap |
