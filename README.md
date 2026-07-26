@@ -84,7 +84,7 @@ Through academic and personal projects, I've developed AI-powered assistants, so
 | Project | Domain | Description | Tech Stack |
 |---------|--------|-------------|------------|
 | 🤖 **AI Assistant** | Generative AI | AI-powered assistant leveraging LLMs and RAG to deliver contextual responses through a Flask web application. | Python · Flask · LLM · RAG · ChromaDB · Hugging Face |
-| 🧪 **LLM Evaluation Platform** | AI Research | Evaluation framework for open-source LLMs with automated scoring, analytics and Kibana dashboards. | Python · Elasticsearch · Kibana · LLM |
+| 🧪 **LLM Evaluation Platform** | AI Research | Evaluation framework for open-source LLMs with automated scoring, data analysis and interactive Kibana dashboards for model performance assessment. | Python · Pandas · NumPy · Matplotlib · Seaborn · Elasticsearch · Kibana · LLM |
 | 🚗 **Drive Now** | Software Engineering | Desktop vehicle rental management system built with an MVC architecture, authentication and MySQL integration. | Java · JavaFX · MySQL · JDBC |
 | 🎉 **EventMatch** | Full-Stack Web | Event management platform featuring user authentication, CRUD operations and responsive web interfaces. | PHP · JavaScript · MySQL · Bootstrap |
 
