@@ -1,34 +1,33 @@
 <h1 align="center">Hi, I'm Trésor 👋</h1>
-<h3 align="center">Computer Science Engineering student @ ECE Paris</h3>
-<h4 align="center">Software Developer · Bridging Web, Desktop & AI</h4>
+<h3 align="center">Bachelor Data & Artificial Intelligence student @ Paris School of Technology & Business (PST&B)</h3>
+<h4 align="center">AI Developer · Building Intelligent Applications with Python & LLMs</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/tresor-mbungu">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Looking%20for%20apprenticeship%202026-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Looking%20for%20an%20Apprenticeship%202026-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-### 🎯 About me
+## 🎯 About me
 
-I'm a 2nd-year Bachelor's student in Computer Science at **ECE Paris**.
+I'm a Bachelor's student specializing in **Data & Artificial Intelligence**.
 
-I love building applications that solve real problems — whether it's a full-stack 
-web platform, a desktop tool, or an AI-powered interface. My recent projects 
-have taken me through three different worlds (PHP web, JavaFX desktop, Flask + AI), 
-which has taught me to adapt fast and pick the right tool for the job.
+I'm passionate about building intelligent applications that leverage **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)** and modern backend technologies.
 
-🔭 Currently building: **AI Assistant** — a web interface integrating LLM APIs
+Through academic and personal projects, I've developed AI-powered assistants, software applications and web platforms using **Python**, **Flask**, **Hugging Face**, **ChromaDB**, **Elasticsearch**, **Docker** and SQL databases.
 
-🌱 Exploring: AI integration in modern apps, software architecture patterns
+🔭 **Currently building:** AI Assistant powered by LLMs & RAG
 
-💼 **Looking for an apprenticeship in September 2026:**
-- Software / Application Development
-- AI Development
+🌱 **Currently learning:** Machine Learning, AI Engineering, Software Architecture & Data Engineering
 
-📍 Paris / Lyon · 📫 Reach me on [LinkedIn](https://linkedin.com/in/tresor-mbungu)
+💼 **Looking for an apprenticeship starting in September 2026 in AI Development**
+
+📍 Paris, France
+
+📫 Feel free to connect with me on **LinkedIn**
 
 ---
 
