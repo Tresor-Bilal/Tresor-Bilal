@@ -81,12 +81,12 @@ Through academic and personal projects, I've developed AI-powered assistants, so
 
 ### 🚀 Featured Projects
 
-| Project | Type | Description | Stack |
-|---------|------|-------------|-------|
-| 🤖 [**AI Assistant**](https://github.com/Tresor-Bilal-Projects/assistant-ia-dirigeants) | AI | Web interface integrating LLM APIs with dynamic responses | HTML · CSS · JS · Python · Flask |
-| 🧪 [**LLM Hackathon**](https://github.com/Tresor-Bilal/hackathon) | AI | LLM evaluation pipeline with scoring & Kibana dashboards | Python · Elasticsearch · Kibana |
-| 🚗 [**Drive Now**](https://github.com/Tresor-Bilal-Projects/Java-Project) | Desktop | Vehicle rental management app with MVC architecture | Java · JavaFX · MySQL · JDBC |
-| 🎉 [**EventMatch**](https://github.com/Tresor-Bilal/Event_Match) | Web | Full-stack event platform with auth & CRUD | PHP · MySQL · JavaScript · Bootstrap |
+| Project | Domain | Description | Tech Stack |
+|---------|--------|-------------|------------|
+| 🤖 **AI Assistant** | Generative AI | AI-powered assistant leveraging LLMs and RAG to deliver contextual responses through a Flask web application. | Python · Flask · LLM · RAG · ChromaDB · Hugging Face |
+| 🧪 **LLM Evaluation Platform** | AI Research | Evaluation framework for open-source LLMs with automated scoring, analytics and Kibana dashboards. | Python · Elasticsearch · Kibana · LLM |
+| 🚗 **Drive Now** | Software Engineering | Desktop vehicle rental management system built with an MVC architecture, authentication and MySQL integration. | Java · JavaFX · MySQL · JDBC |
+| 🎉 **EventMatch** | Full-Stack Web | Event management platform featuring user authentication, CRUD operations and responsive web interfaces. | PHP · JavaScript · MySQL · Bootstrap |
 
 ---
 
