@@ -83,8 +83,8 @@ Through academic and personal projects, I've developed AI-powered assistants, so
 
 | Project | Domain | Description | Tech Stack |
 |---------|--------|-------------|------------|
-| 🤖 [**AI Assistant**](https://github.com/NosProjets-Tech/assistant-ia-dirigeants) | Generative AI | AI-powered assistant leveraging LLMs and RAG to deliver contextual responses through a Flask web application. | Python · Flask · LLM · RAG · ChromaDB · Hugging Face |
-| 🧪 [**LLM Evaluation Platform**](https://github.com/Tresor-Bilal/hackathon) | AI Research | Evaluation framework for open-source LLMs with automated scoring, data analysis and interactive Kibana dashboards for model performance assessment. | Python · Pandas · NumPy · Matplotlib · Seaborn · Elasticsearch · Kibana · LLM |
+| 🤖 [**AI Assistant**](https://github.com/NosProjets-Tech/assistant-ia-dirigeants) | Generative AI | Intelligent conversational assistant for business leaders, combining LLMs and a user-isolated RAG pipeline to analyze PDF, DOCX and TXT documents and provide contextual, source-based responses. | Python · Flask · LLM · RAG · ChromaDB · Hugging Face Router · MySQL · JavaScript |
+| 🛡️ [**LLM Safety Evaluation Platform**](https://github.com/Tresor-Bilal/hackathon) | AI Safety & Research | Automated platform for evaluating LLM safety using the WMDP benchmark, with automated inference, response classification, safety scoring, statistical analysis, reporting and Elasticsearch/Kibana visualization. | Python · PyTorch · Hugging Face Transformers · WMDP · Pandas · Elasticsearch · Kibana · Docker · Git |
 | 🚗 [**Drive Now**](https://github.com/NosProjets-Tech/Java-Project) | Software Engineering | Desktop vehicle rental management system built with an MVC architecture, authentication and MySQL integration. | Java · JavaFX · MySQL · JDBC |
 | 🎉 [**EventMatch**](https://github.com/Tresor-Bilal/EventMatch) | Full-Stack Web | Event management platform featuring user authentication, CRUD operations and responsive web interfaces. | PHP · JavaScript · MySQL · Bootstrap |
 
