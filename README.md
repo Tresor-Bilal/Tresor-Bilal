@@ -1,7 +1,7 @@
 # Hi, I'm Trésor 👋
 
-<h3 align="center">Bachelor Computer Science student @ ECE Paris</h3>
-<h4 align="center">Software Development & AI · Building Applications with Python, Java & AI Technologies</h4>
+<h3 align="center">3rd-year Computer Science Bachelor's student @ ECE Paris</h3>
+<h4 align="center">Software Development & AI · Building Web, Software & AI-Powered Applications</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tresor-mbungu">
@@ -14,17 +14,17 @@
 
 ## 🎯 About me
 
-I'm a **3rd-year Computer Science Bachelor's student at ECE Paris**, interested in both **software application development and artificial intelligence**.
+I'm a **3rd-year Computer Science Bachelor's student at ECE Paris**, interested in **software development, application engineering and artificial intelligence**.
 
-I enjoy building practical software solutions while exploring **Machine Learning, Generative AI, Large Language Models (LLMs), RAG and AI-powered applications**. My projects combine software engineering, data processing and AI technologies.
+I enjoy building practical applications while exploring **Machine Learning, Generative AI, Large Language Models (LLMs), RAG and AI-powered systems**. My projects combine software engineering, web development, data processing and AI technologies.
 
-Through academic and professional projects, I've developed applications using **Python, Java, C#, JavaScript and SQL**, as well as AI solutions involving **PyTorch, Hugging Face Transformers, ChromaDB and scikit-learn**.
+Through academic and professional projects, I've developed applications using **Python, Java, C#, JavaScript, TypeScript and SQL**, as well as AI solutions involving **PyTorch, Hugging Face Transformers, ChromaDB and scikit-learn**.
 
 🔭 **Currently exploring:** Machine Learning, LLM applications, RAG and AI engineering
 
-🌱 **Currently learning:** Deep Learning, neural networks, software architecture and advanced AI concepts
+🌱 **Currently learning:** Deep Learning, neural networks, software architecture and modern web technologies
 
-💼 **Looking for an apprenticeship starting in September 2026** in software development or artificial intelligence
+💼 **Looking for an apprenticeship starting in September 2026** in software development, web/mobile development or artificial intelligence
 
 📍 Paris, France
 
@@ -40,6 +40,7 @@ Through academic and professional projects, I've developed applications using **
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)
 ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
@@ -62,6 +63,8 @@ Through academic and professional projects, I've developed applications using **
 
 ### 🌐 Web & Application Development
 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-1E90FF?style=flat-square)
@@ -90,12 +93,13 @@ Through academic and professional projects, I've developed applications using **
 
 ## 🚀 Featured Projects
 
-| Project                                                                             | Domain               | Description                                                                                                                                                                                  | Tech Stack                                                                        |
-| ----------------------------------------------------------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 🤖 [**AI Assistant**](https://github.com/NosProjets-Tech/assistant-ia-dirigeants)   | Generative AI        | Conversational assistant for business documents using an LLM and a RAG pipeline with semantic search and user data isolation.                                                                | Python · Flask · LLM · RAG · ChromaDB · Hugging Face · MySQL · JavaScript         |
-| 🛡️ [**LLM Safety Evaluation Platform**](https://github.com/Tresor-Bilal/hackathon) | AI Safety & Research | Automated platform for evaluating LLM safety using the WMDP benchmark, with inference, response classification, safety scoring, statistical analysis and Elasticsearch/Kibana visualization. | Python · PyTorch · Transformers · WMDP · Pandas · Elasticsearch · Kibana · Docker |
-| 🚗 [**Drive Now**](https://github.com/NosProjets-Tech/Java-Project)                 | Software Engineering | Vehicle rental management application developed with an MVC architecture, authentication, reservation management and MySQL integration.                                                      | Java · JavaFX · MySQL · JDBC · Maven                                              |
-| 🎉 [**EventMatch**](https://github.com/Tresor-Bilal/EventMatch)                     | Full-Stack Web       | Web platform for discovering and managing events, featuring user accounts, database management, API integration and a recommendation chatbot.                                                | PHP · JavaScript · MySQL · API · Git                                              |
+| Project                                                                             | Domain                            | Description                                                                                                                                                     | Tech Stack                                                                        |
+| ----------------------------------------------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 🎓 **Altrejoah**                                                                    | Personal Project · Full-Stack Web | Personal project focused on academic fees management, with authentication, PostgreSQL integration and a complete Stripe payment workflow with webhook handling. | Next.js · React · TypeScript · Prisma · PostgreSQL · NextAuth · Stripe            |
+| 🤖 [**AI Assistant**](https://github.com/NosProjets-Tech/assistant-ia-dirigeants)   | Generative AI                     | Conversational assistant for business documents using an LLM and a RAG pipeline with semantic search and user data isolation.                                   | Python · Flask · LLM · RAG · ChromaDB · Hugging Face · MySQL · JavaScript         |
+| 🛡️ [**LLM Safety Evaluation Platform**](https://github.com/Tresor-Bilal/hackathon) | AI Safety & Research              | Platform for evaluating LLM safety using the WMDP benchmark, with inference, response classification, safety scoring and Elasticsearch/Kibana visualization.    | Python · PyTorch · Transformers · WMDP · Pandas · Elasticsearch · Kibana · Docker |
+| 🚗 [**Drive Now**](https://github.com/NosProjets-Tech/Java-Project)                 | Software Engineering              | Vehicle rental management application developed with an MVC architecture, authentication, reservation management and MySQL integration.                         | Java · JavaFX · MySQL · JDBC · Maven                                              |
+| 🎉 [**EventMatch**](https://github.com/Tresor-Bilal/EventMatch)                     | Full-Stack Web                    | Web platform for discovering and managing events, featuring user accounts, database management, API integration and a recommendation chatbot.                   | PHP · JavaScript · MySQL · API · Git                                              |
 
 ---
 
