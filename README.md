@@ -1,7 +1,7 @@
 # Hi, I'm Trésor 👋
 
 <h3 align="center">3rd-year Computer Science Bachelor's student @ ECE Paris</h3>
-<h4 align="center">Software Development & AI · Building Web, Software & AI-Powered Applications</h4>
+<h4 align="center">Software Development · AI · Data · Building Full-Stack & AI-Powered Applications</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tresor-mbungu">
@@ -14,17 +14,19 @@
 
 ## 🎯 About me
 
-I'm a **3rd-year Computer Science Bachelor's student at ECE Paris**, interested in **software development, application engineering and artificial intelligence**.
+I'm a **3rd-year Computer Science Bachelor's student at ECE Paris**, focused on **software development, artificial intelligence and data-driven applications**.
 
-I enjoy building practical applications while exploring **Machine Learning, Generative AI, Large Language Models (LLMs), RAG and AI-powered systems**. My projects combine software engineering, web development, data processing and AI technologies.
+I enjoy designing and building complete applications, from backend architecture and data processing to user interfaces and AI integration.
 
-Through academic and professional projects, I've developed applications using **Python, Java, C#, JavaScript, TypeScript and SQL**, as well as AI solutions involving **PyTorch, Hugging Face Transformers, ChromaDB and scikit-learn**.
+I'm the **designer and developer of AEGIS**, a Full-Stack platform for evaluating Large Language Models, combining **FastAPI, React, PyTorch, Hugging Face Transformers and data processing**. I also co-developed **Altrejoah**, a Full-Stack academic fees management platform currently deployed in production.
 
-🔭 **Currently exploring:** Machine Learning, LLM applications, RAG and AI engineering
+Through academic, personal and professional projects, I've worked with **Python, Java, C#, JavaScript, TypeScript and SQL**, as well as **Machine Learning, LLMs, RAG, REST APIs and relational databases**.
 
-🌱 **Currently learning:** Deep Learning, neural networks, software architecture and modern web technologies
+🔭 **Currently exploring:** AI engineering, LLM evaluation, RAG, data processing and application architecture
 
-💼 **Currently looking for an apprenticeship** in software development, application development or artificial intelligence — **available on short notice**
+🌱 **Currently learning:** Deep Learning, neural networks and production-oriented AI deployment
+
+💼 **Currently looking for an apprenticeship** in software development, application development, Data or artificial intelligence — **available on short notice**
 
 📍 Based in Paris, France · Open to relocation
 
@@ -63,6 +65,7 @@ Through academic and professional projects, I've developed applications using **
 
 ### 🌐 Web & Application Development
 
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -74,14 +77,16 @@ Through academic and professional projects, I've developed applications using **
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### ⚙️ DevOps & Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -95,10 +100,10 @@ Through academic and professional projects, I've developed applications using **
 
 | Project | Domain | Description | Tech Stack |
 | --- | --- | --- | --- |
-| 🎓 **Altrejoah** | Personal Project · Full-Stack Web | Personal project focused on academic fees management, with authentication, PostgreSQL integration and a complete Stripe payment workflow with webhook handling. | Next.js · React · TypeScript · Prisma · PostgreSQL · NextAuth · Stripe |
-| 🤖 [**AI Assistant**](https://github.com/NosProjets-Tech/assistant-ia-dirigeants) | Generative AI | Conversational assistant for business documents using an LLM and a RAG pipeline with semantic search and user data isolation. | Python · Flask · LLM · RAG · ChromaDB · Hugging Face · MySQL · JavaScript |
-| 🛡️ [**LLM Safety Evaluation Platform**](https://github.com/Tresor-Bilal/hackathon) | AI Safety & Research | Platform for evaluating LLM safety using the WMDP benchmark, with inference, response classification, safety scoring and Elasticsearch/Kibana visualization. | Python · PyTorch · Transformers · WMDP · Pandas · Elasticsearch · Kibana · Docker |
-| 🚗 [**Drive Now**](https://github.com/NosProjets-Tech/Java-Project) | Software Engineering | Vehicle rental management application developed with an MVC architecture, authentication, reservation management and MySQL integration. | Java · JavaFX · MySQL · JDBC · Maven |
+| 🛡️ [**AEGIS — LLM Safety Evaluation Platform**](https://github.com/Tresor-Bilal/hackathon) | AI · Data · Full-Stack | Full-Stack platform designed to evaluate LLM behavior and safety, featuring multi-model inference, CSV/JSON dataset imports, real-time evaluation tracking, response classification, human annotation and PDF/Excel reporting. | Python · FastAPI · React · TypeScript · PyTorch · Hugging Face Transformers · SQLite · Pandas |
+| 🎓 [**Altrejoah**](https://altrejoah.com/) | Full-Stack Web · Production | Academic fees management and payment platform deployed in production, featuring authentication, role management, PostgreSQL integration, Stripe payments, transactional emails and PDF receipt generation. | Next.js · React · TypeScript · Prisma · PostgreSQL · Stripe · Linux |
+| 🤖 [**AI Assistant**](https://github.com/NosProjets-Tech/assistant-ia-dirigeants) | Generative AI · RAG | Conversational assistant for business documents using LLMs and a RAG pipeline with semantic search and contextual responses. | Python · Flask · LLM · RAG · ChromaDB · JavaScript |
+| 🚗 [**Drive Now**](https://github.com/NosProjets-Tech/Java-Project) | Software Engineering | Vehicle rental management application developed with MVC architecture, authentication, reservation management and MySQL integration. | Java · JavaFX · MySQL · JDBC · Maven |
 | 🎉 [**EventMatch**](https://github.com/Tresor-Bilal/EventMatch) | Full-Stack Web | Web platform for discovering and managing events, featuring user accounts, database management, API integration and a recommendation chatbot. | PHP · JavaScript · MySQL · API · Git |
 
 ---
