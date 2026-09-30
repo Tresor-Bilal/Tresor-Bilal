@@ -16,9 +16,9 @@
 
 I'm a **3rd-year Computer Science Bachelor's student at ECE Paris**, focused on **software development, artificial intelligence and data-driven applications**.
 
-I enjoy designing and building complete applications, from backend architecture and data processing to user interfaces and AI integration.
+I enjoy designing and building complete applications, from backend architecture and data processing to user interfaces, AI integration and production deployment.
 
-I'm the **designer and developer of AEGIS**, a Full-Stack platform for evaluating Large Language Models, combining **FastAPI, React, PyTorch, Hugging Face Transformers and data processing**. I also co-developed **Altrejoah**, a Full-Stack academic fees management platform currently deployed in production.
+I'm the **designer and developer of AEGIS**, a production-deployed Full-Stack platform for evaluating Large Language Models, combining **FastAPI, React, PyTorch, Hugging Face Transformers and data processing**. I also co-developed **Altrejoah**, a Full-Stack academic fees management and payment platform deployed in production.
 
 Through academic, personal and professional projects, I've worked with **Python, Java, C#, JavaScript, TypeScript and SQL**, as well as **Machine Learning, LLMs, RAG, REST APIs and relational databases**.
 
@@ -100,7 +100,7 @@ Through academic, personal and professional projects, I've worked with **Python,
 
 | Project | Domain | Description | Tech Stack |
 | --- | --- | --- | --- |
-| 🛡️ [**AEGIS — LLM Safety Evaluation Platform**](https://github.com/Tresor-Bilal/hackathon) | AI · Data · Full-Stack | Full-Stack platform designed to evaluate LLM behavior and safety, featuring multi-model inference, CSV/JSON dataset imports, real-time evaluation tracking, response classification, human annotation and PDF/Excel reporting. | Python · FastAPI · React · TypeScript · PyTorch · Hugging Face Transformers · SQLite · Pandas |
+| 🛡️ [**AEGIS — LLM Safety Evaluation Platform**](https://aegisbench.com/) | AI · Data · Full-Stack · Production | Production-deployed platform for evaluating LLM behavior and safety, featuring multi-model inference, dataset management, real-time evaluation tracking, response classification, human annotation and PDF/Excel reporting. | Python · FastAPI · React · TypeScript · PyTorch · Hugging Face Transformers · SQLite · Pandas |
 | 🎓 [**Altrejoah**](https://altrejoah.com/) | Full-Stack Web · Production | Academic fees management and payment platform deployed in production, featuring authentication, role management, PostgreSQL integration, Stripe payments, transactional emails and PDF receipt generation. | Next.js · React · TypeScript · Prisma · PostgreSQL · Stripe · Linux |
 | 🤖 [**AI Assistant**](https://github.com/NosProjets-Tech/assistant-ia-dirigeants) | Generative AI · RAG | Conversational assistant for business documents using LLMs and a RAG pipeline with semantic search and contextual responses. | Python · Flask · LLM · RAG · ChromaDB · JavaScript |
 | 🚗 [**Drive Now**](https://github.com/NosProjets-Tech/Java-Project) | Software Engineering | Vehicle rental management application developed with MVC architecture, authentication, reservation management and MySQL integration. | Java · JavaFX · MySQL · JDBC · Maven |
